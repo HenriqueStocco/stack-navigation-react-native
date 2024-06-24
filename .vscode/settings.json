@@ -1,0 +1,7 @@
+{
+  "explorer.compactFolders": false,
+  "editor.lineHeight": 24,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.renderLineHighlight": "gutter",
+  "editor.formatOnSave": true
+}
